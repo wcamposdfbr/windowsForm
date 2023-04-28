@@ -55,6 +55,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_ValidaSeha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ValidaSeha.Designer.cs">
+      <DependentUpon>Frm_ValidaSeha.cs</DependentUpon>
+    </Compile>
     <Compile Include="HelloWord.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +71,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ValidaSeha.resx">
+      <DependentUpon>Frm_ValidaSeha.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="HelloWord.resx">
       <DependentUpon>HelloWord.cs</DependentUpon>
