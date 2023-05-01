@@ -55,6 +55,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_Mascara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Mascara.Designer.cs">
+      <DependentUpon>Frm_Mascara.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_ValidaSeha.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Mascara.resx">
+      <DependentUpon>Frm_Mascara.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_ValidaSeha.resx">
       <DependentUpon>Frm_ValidaSeha.cs</DependentUpon>

@@ -10,3 +10,4 @@ C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWin
 C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.pdb
 C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_DemonstracaoEventoKey.resources
 C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_ValidaSeha.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_Mascara.resources
