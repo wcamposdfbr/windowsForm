@@ -24,7 +24,7 @@ namespace CursoWindowsForm
 
         private void Btn_Fechar_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Close();
         }
 
         private void button1_Click(object sender, EventArgs e)

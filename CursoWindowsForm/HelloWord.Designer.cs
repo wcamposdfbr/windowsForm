@@ -29,6 +29,7 @@ namespace CursoWindowsForm
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_HelloWord));
             this.Lbl_Titulo = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.Txt_ConteudoLabel = new System.Windows.Forms.TextBox();
@@ -85,6 +86,7 @@ namespace CursoWindowsForm
             this.Controls.Add(this.button1);
             this.Controls.Add(this.Lbl_Titulo);
             this.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.Name = "Frm_HelloWord";
             this.Text = "Hello Word";
