@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cls_Uteis.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +67,12 @@
     </Compile>
     <Compile Include="Frm_ValidaCPF.Designer.cs">
       <DependentUpon>Frm_ValidaCPF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ValidaCPF2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ValidaCPF2.Designer.cs">
+      <DependentUpon>Frm_ValidaCPF2.cs</DependentUpon>
     </Compile>
     <Compile Include="Frm_ValidaSeha.cs">
       <SubType>Form</SubType>

@@ -1,7 +1,7 @@
 ﻿
 namespace CursoWindowsForm
 {
-    partial class Frm_ValidaCPF
+    partial class Frm_ValidaCPF2
     {
         /// <summary>
         /// Required designer variable.
@@ -42,7 +42,6 @@ namespace CursoWindowsForm
             this.Msk_CPF.Name = "Msk_CPF";
             this.Msk_CPF.Size = new System.Drawing.Size(218, 26);
             this.Msk_CPF.TabIndex = 0;
-            this.Msk_CPF.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.Msk_CPF_MaskInputRejected);
             // 
             // Lbl_Resultado
             // 
@@ -61,7 +60,6 @@ namespace CursoWindowsForm
             this.Btn_Reset.TabIndex = 2;
             this.Btn_Reset.Text = "Reset";
             this.Btn_Reset.UseVisualStyleBackColor = true;
-            this.Btn_Reset.Click += new System.EventHandler(this.Btn_Reset_Click);
             // 
             // Btn_Valida
             // 
@@ -71,7 +69,6 @@ namespace CursoWindowsForm
             this.Btn_Valida.TabIndex = 3;
             this.Btn_Valida.Text = "Valida";
             this.Btn_Valida.UseVisualStyleBackColor = true;
-            this.Btn_Valida.Click += new System.EventHandler(this.Btn_Valida_Click);
             // 
             // Frm_ValidaCPF
             // 
@@ -82,7 +79,7 @@ namespace CursoWindowsForm
             this.Controls.Add(this.Btn_Reset);
             this.Controls.Add(this.Lbl_Resultado);
             this.Controls.Add(this.Msk_CPF);
-            this.Name = "Frm_ValidaCPF";
+            this.Name = "Frm_ValidaCPF2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Validação de CPF";
             this.ResumeLayout(false);
