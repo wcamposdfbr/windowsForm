@@ -71,7 +71,7 @@ namespace CursoWindowsForm
             this.Btn_Valida.TabIndex = 3;
             this.Btn_Valida.Text = "Valida";
             this.Btn_Valida.UseVisualStyleBackColor = true;
-            this.Btn_Valida.Click += new System.EventHandler(this.Btn_Valida_Click);
+            this.Btn_Valida.Click += new System.EventHandler(this.Btn_Valida_Clic);
             // 
             // Frm_ValidaCPF
             // 

@@ -30,7 +30,6 @@ namespace CursoWindowsForm
         private void InitializeComponent()
         {
             this.Msk_CPF = new System.Windows.Forms.MaskedTextBox();
-            this.Lbl_Resultado = new System.Windows.Forms.Label();
             this.Btn_Reset = new System.Windows.Forms.Button();
             this.Btn_Valida = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -42,15 +41,6 @@ namespace CursoWindowsForm
             this.Msk_CPF.Name = "Msk_CPF";
             this.Msk_CPF.Size = new System.Drawing.Size(218, 26);
             this.Msk_CPF.TabIndex = 0;
-            // 
-            // Lbl_Resultado
-            // 
-            this.Lbl_Resultado.AutoSize = true;
-            this.Lbl_Resultado.Font = new System.Drawing.Font("Arial Narrow", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_Resultado.Location = new System.Drawing.Point(12, 90);
-            this.Lbl_Resultado.Name = "Lbl_Resultado";
-            this.Lbl_Resultado.Size = new System.Drawing.Size(0, 33);
-            this.Lbl_Resultado.TabIndex = 1;
             // 
             // Btn_Reset
             // 
@@ -69,15 +59,15 @@ namespace CursoWindowsForm
             this.Btn_Valida.TabIndex = 3;
             this.Btn_Valida.Text = "Valida";
             this.Btn_Valida.UseVisualStyleBackColor = true;
+            this.Btn_Valida.Click += new System.EventHandler(this.Btn_Valida_Click);
             // 
-            // Frm_ValidaCPF
+            // Frm_ValidaCPF2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(362, 137);
             this.Controls.Add(this.Btn_Valida);
             this.Controls.Add(this.Btn_Reset);
-            this.Controls.Add(this.Lbl_Resultado);
             this.Controls.Add(this.Msk_CPF);
             this.Name = "Frm_ValidaCPF2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -90,7 +80,6 @@ namespace CursoWindowsForm
         #endregion
 
         private System.Windows.Forms.MaskedTextBox Msk_CPF;
-        private System.Windows.Forms.Label Lbl_Resultado;
         private System.Windows.Forms.Button Btn_Reset;
         private System.Windows.Forms.Button Btn_Valida;
     }
