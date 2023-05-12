@@ -1,0 +1,16 @@
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\bin\Debug\CursoWindowsForm.exe.config
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\bin\Debug\CursoWindowsForm.exe
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\bin\Debug\CursoWindowsForm.pdb
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_HelloWord.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Properties.Resources.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.csproj.GenerateResource.cache
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.exe
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.pdb
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_DemonstracaoEventoKey.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_ValidaSeha.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_Mascara.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_ValidaCPF.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_ValidaCPF2.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.Frm_Principal.resources
+C:\Users\wcamp\source\repos\CursoWindowsForm\CursoWindowsForm\obj\Debug\CursoWindowsForm.csproj.AssemblyReference.cache

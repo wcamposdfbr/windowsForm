@@ -1,0 +1,6 @@
+C:\Users\wcamp\source\repos\CursoWindowsForm\WellingtonBiblioteca\bin\Release\WellingtonBiblioteca.dll
+C:\Users\wcamp\source\repos\CursoWindowsForm\WellingtonBiblioteca\bin\Release\WellingtonBiblioteca.pdb
+C:\Users\wcamp\source\repos\CursoWindowsForm\WellingtonBiblioteca\obj\Release\WellingtonBiblioteca.csproj.AssemblyReference.cache
+C:\Users\wcamp\source\repos\CursoWindowsForm\WellingtonBiblioteca\obj\Release\WellingtonBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\wcamp\source\repos\CursoWindowsForm\WellingtonBiblioteca\obj\Release\WellingtonBiblioteca.dll
+C:\Users\wcamp\source\repos\CursoWindowsForm\WellingtonBiblioteca\obj\Release\WellingtonBiblioteca.pdb
